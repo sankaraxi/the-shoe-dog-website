@@ -5,7 +5,7 @@ import PopularProductCard from "../components/PopularProductCard";
 const PopularProducts = () => {
   return (
     <section id="products"
-      className="Max-container max-sm:mt-12"
+      className="max-container max-sm:mt-12"
     >
       <div className="flex flex-col justify-start gap-5">
         <h2 className="text-4xl font-palanquin font-bold">
